@@ -1,0 +1,5 @@
+run process
+1. all.py
+2.local.py
+3.read.py
+4.local_permission.py
